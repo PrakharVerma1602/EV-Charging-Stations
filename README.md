@@ -13,7 +13,7 @@ This project analyzes a comprehensive dataset of 5,000+ EV charging stations to 
 
 * Unsupervised Learning: K-Means Clustering to segment stations into "Premium," "Value," and "Underperformer" profiles.
 
-* Data Visualization: Seaborn and Matplotlib for diagnostic heatmaps and trend analysis.
+* Data Visualization: Seaborn and Matplotlib for different plots.
 
 💡 Key Insights
 * Forecasting: Predicted a steady growth trend in station installations, identifying a shift towards market maturity by 2030.
